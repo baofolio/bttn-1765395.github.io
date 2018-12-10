@@ -1,0 +1,13 @@
+img { 
+  	float:right;
+  	width:175px;
+  	height:220px;
+  	margin-left:15px;
+	}
+#rcorners2 {
+  	border-radius: 25px;
+ 	border: 2px solid #73AD21;
+  	padding: 20px; 
+  	width: 550px;
+  	height: 200px;  
+	}
